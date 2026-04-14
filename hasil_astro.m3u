@@ -612,15 +612,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://poster.starhubgo.com/poster/aston_villa__stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [19:50] Aston Villa vs Sunderland
-#http://143.14.13.26:50033/streams/hubpremier3/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier3/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 #EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/everton_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [19:50] Everton vs Liverpool
 #http://143.14.13.26:50033/streams/hubpremier2/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier12/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d02ff184351548eea3981c38b6f48d9b:42d56d760c19c180ceaf2e7ef512e5be
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://poster.starhubgo.com/poster/aston_villa__stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [19:50] Aston Villa vs Sunderland
+#http://143.14.13.26:50033/streams/hubpremier3/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier3/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -654,12 +654,6 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 1
-#http://143.14.13.26:50033/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 #EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 2
 #http://143.14.13.26:50033/streams/hubpremier2/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier12/output/manifest.mpd
@@ -669,6 +663,12 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 #KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
 #EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 8
 #http://143.14.13.26:50033/streams/hubpremier8/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier8/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 1
+#http://143.14.13.26:50033/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -789,6 +789,12 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:30] Brussels P2 Day 1 Match 4
 #http://143.14.13.26:50033/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/brighton_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [01:50] Brighton & Hove Albion vs Chelsea
+#http://143.14.13.26:50033/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

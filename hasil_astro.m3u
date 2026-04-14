@@ -2,11 +2,6 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_the_ucl_review_show_202526.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 The UCL Review Show 2025/26 Liverpool vs PSG
-http://143.14.13.26:50033/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_uci_world_tour.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [11:10] Tour of Hainan
 #http://143.14.13.26:50033/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0

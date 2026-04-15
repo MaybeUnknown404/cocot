@@ -2,9 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_uci_world_tour.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [11:10] Tour of Hainan
-#https://cloudfront.weyond.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_uci_world_tour.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 Tour of Hainan
+https://cloudfront.weyond.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4

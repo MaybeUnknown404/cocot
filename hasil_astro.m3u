@@ -90,15 +90,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_uefa_europa_league_live_match.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:55] Aston Villa vs Bologna
-#https://ucdn.vipertv.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_UefaConferenceLeagueLiveMatch.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:55] Fiorentina vs Crystal Palace
 #https://ucdn.vipertv.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_uefa_europa_league_live_match.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:55] Aston Villa vs Bologna
+#https://ucdn.vipertv.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -528,15 +528,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/leeds_united_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [20:50] Leeds United vs Wolverhampton Wanderers - Hub Premier 1
-#https://ucdn.vipertv.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
 #EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/newcastle_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [20:50] Newcastle United vs Bournemouth
 #https://ucdn.vipertv.my.id/streams/hubpremier2/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier12/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/leeds_united_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [20:50] Leeds United vs Wolverhampton Wanderers - Hub Premier 1
+#https://ucdn.vipertv.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -552,15 +552,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [22:30] New Giza P2 Day 6 Final
-#https://ucdn.vipertv.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_porsche_carrera_cup_germany.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [22:30] Imola Race 1
 #https://ucdn.vipertv.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [22:30] New Giza P2 Day 6 Final
+#https://ucdn.vipertv.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -822,9 +822,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
-#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 8
-#https://ucdn.vipertv.my.id/streams/hubpremier8/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier8/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 2
+#https://ucdn.vipertv.my.id/streams/hubpremier2/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier12/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -834,9 +834,9 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17e9c5d34f514dd3bce90fcc7deaeaa6:ab86716fe05961647a3713243e95dcd2
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 2
-#https://ucdn.vipertv.my.id/streams/hubpremier2/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier12/output/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=8453cc1161814eaab26bca37dc85e360:72c9a9cad5387966e5715eee5cc1a94b
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://poster.starhubgo.com/poster/man_city_stadium.jpg?w=960" group-title="⏳ Upcoming",⏳ [22:20] Manchester City vs Arsenal - Hub Premier 8
+#https://ucdn.vipertv.my.id/streams/hubpremier8/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier8/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -966,15 +966,15 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/pl_live.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:30] PREMIER LEAGUE LIVE
-#https://ucdn.vipertv.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:30] Brussels P2 Day 1 Match 4
 #https://ucdn.vipertv.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://poster.starhubgo.com/poster/pl_live.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [01:30] PREMIER LEAGUE LIVE
+#https://ucdn.vipertv.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1041,6 +1041,12 @@ https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1ec
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://poster.starhubgo.com/poster/ch213_laliga.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [23:55] Elche vs Atletico Madrid
 #https://ucdn.vipertv.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd
+https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [00:30] Brussels P2 Day 2 Match 5
+#https://ucdn.vipertv.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
 https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

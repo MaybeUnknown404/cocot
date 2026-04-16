@@ -1475,5 +1475,5 @@ http://cloudfront.weyond.my.id/streams/celestialclassicmovies/live.mpd?url=https
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hubprem1.png" group-title="Uji coba CDN CF",Hub Premier 1
-http://cloudfront.weyond.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
+http://143.14.13.26:50033/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd&warm=false
 

@@ -7,9 +7,8 @@ http://onyxid.b-cdn.net/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.m
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="⏳ Upcoming",⏳ [14:00] New Giza P2 Day 4 QF Match 1
-#http://onyxid.b-cdn.net/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
-https://drive.usercontent.google.com/download?id=1Gd5_Y9ZCGrhbFnI3wDSR6f7_ImG1eccJ&export=download&authuser=0
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://poster.starhubgo.com/poster/ch211_premier_padel.jpg?w=960&h=540" group-title="🔴 Live Event",🔴 New Giza P2 Day 4 QF Match 1
+http://onyxid.b-cdn.net/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4

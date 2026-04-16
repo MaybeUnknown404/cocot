@@ -1473,3 +1473,8 @@ http://onyxid.b-cdn.net/streams/celestialmovies/live.mpd?url=https://ucdn.weyond
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies
 http://onyxid.b-cdn.net/streams/celestialclassicmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CCM/output/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hubprem1.png" group-title="Uji coba CDN CF",Hub Premier 1
+http://cloudfront.weyond.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd
+

@@ -3,72 +3,72 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
 #EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hubprem1.png" group-title="🇸🇬 Starhub Sports",Hub Premier 1
-https://g-core.weyond.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd&warm=true&md5=RzxKQ9m52dSc2-bB9LPxmA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubpremier1/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubPremier1/output/manifest.mpd&warm=true&md5=w4741j4iQty2MQB4O0eosg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
 #EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 1 HD
-https://g-core.weyond.my.id/streams/hubsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports1HDnew1/output/manifest.mpd&warm=true&md5=IUIvEqEYeaaNiqeKZejPvA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports1HDnew1/output/manifest.mpd&warm=true&md5=wuNs9CtBET4PoHvRzvzE2A&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
 #EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 2 HD
-https://g-core.weyond.my.id/streams/hubsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports2HD/output/manifest.mpd&warm=true&md5=YJM8XAMsL_yPewET1cEdDQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports2HD/output/manifest.mpd&warm=true&md5=RUNXrwrZKVKeMMKz69_OVA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 3 HD
-https://g-core.weyond.my.id/streams/hubsports3hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports3HDNEW/output/manifest.mpd&warm=true&md5=5KaNZJbSi4Ruj7F93DH4HA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports3hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports3HDNEW/output/manifest.mpd&warm=true&md5=mhcGOcOD5KIdxXkGcSL1yg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 4 HD
-https://g-core.weyond.my.id/streams/hubsports4hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports4HDnew/output/manifest.mpd&warm=true&md5=tP4AktfU2ADwFjF8sV1zgA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports4hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports4HDnew/output/manifest.mpd&warm=true&md5=5ftnxgBKhKzp009NFud6Aw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
 #EXTINF:-1 tvg-id="HubSports6HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 6 HD
-https://g-core.weyond.my.id/streams/hubsports6hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports6/output/manifest.mpd&warm=true&md5=uObr6HCZEmGLRNhkxyUfsA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports6hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports6/output/manifest.mpd&warm=true&md5=0qFCOA_H9k2W8w9WQdvgLg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
 #EXTINF:-1 tvg-id="HubSports7HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 7 HD
-https://g-core.weyond.my.id/streams/hubsports7hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports7/output/manifest.mpd&warm=true&md5=gNnRUEut3r_TDdyLhJGLSQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports7hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports7/output/manifest.mpd&warm=true&md5=BVd8t3CHcleAWP7_BNaoTA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=760126fc9c2640f8b32e647c0f43fa09:f139ce2dd6ebe611388fa8e175e99baf
 #EXTINF:-1 tvg-id="HubSports8HD" tvg-name="Hub Sports 8 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Starhub Sports",Hub Sports 8 HD
-https://g-core.weyond.my.id/streams/hubsports8hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports8/output/manifest.mpd&warm=true&md5=o7aBSyhwdvzmGjCBklZpeA&expires=1776468279
+https://g-core.weyond.my.id/streams/hubsports8hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSports8/output/manifest.mpd&warm=true&md5=yTlD9EqdyER8xZF69wzn-Q&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c4b013320654277a19df8f14b80b6c5:4751e8a9d798c2a1e1c581f179771f48
 #EXTINF:-1 tvg-id="beINSportsHD" tvg-name="beIN Sports HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 1 HD
-https://g-core.weyond.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd&warm=true&md5=A73ZHQVG-a1dwq3y3xAHKQ&expires=1776468279
+https://g-core.weyond.my.id/streams/beinsports1hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BeINSportsHD/output/manifest.mpd&warm=true&md5=UIADxzV5HNx9IPuleVz-JQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9a4d58a8bb48019ec1589df652dd2b:8b1ba8fdf2c1a141322cd18564973bd4
 #EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 2 HD
-https://g-core.weyond.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd&warm=true&md5=XbGLqNu9TrxyHZStI8IM1w&expires=1776468279
+https://g-core.weyond.my.id/streams/beinsports2hd/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSportsHD2/output/manifest.mpd&warm=true&md5=zqR4IyWmGKWQMH6yEb6Edg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8b328f4b7bd4ac5966f8a7d434536b7:9354e572eaedf7b9481cbe30776ae781
 #EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 3
-https://g-core.weyond.my.id/streams/beinsports3/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports3NEW/output/manifest.mpd&warm=true&md5=AfPZcPPj5mG3aAEMe8H4OA&expires=1776468279
+https://g-core.weyond.my.id/streams/beinsports3/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports3NEW/output/manifest.mpd&warm=true&md5=RNhhLqkHxcBDTSY2xuDytw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6addeb1135a4279b917e35c26d5b0f5:7f5599f34b2a49e23f98045a5a0f512a
 #EXTINF:-1 tvg-id="beINSports4" tvg-name="beIN Sports 4" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 4
-https://g-core.weyond.my.id/streams/beinsports4/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports4/output/manifest.mpd&warm=true&md5=aS4Bwm1GrNSpGQHwD_BV7g&expires=1776468279
+https://g-core.weyond.my.id/streams/beinsports4/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports4/output/manifest.mpd&warm=true&md5=BOtJpdNK96s7d1bKBHGC7A&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f8252e59f9b439cb89cb8628ced2443:4faba8fd3d200f9825dc29ca98d97e33
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 5
-https://g-core.weyond.my.id/streams/beinsports5/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports5/output/manifest.mpd&warm=true&md5=Oixs_Db0EkkKCdeZueRzvw&expires=1776468279
+https://g-core.weyond.my.id/streams/beinsports5/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/beINSports5/output/manifest.mpd&warm=true&md5=d_gigGQmU1vzVbxtt-sFqw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="101" tvg-chno="101" ch-number="101" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
-https://g-core.weyond.my.id/streams/previewchannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Preview/output/manifest.mpd&warm=true&md5=04TLidOnuNYhnXJtql7dQw&expires=1776468279
+https://g-core.weyond.my.id/streams/previewchannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Preview/output/manifest.mpd&warm=true&md5=MDIGeNXOs7dai1-DPJB3FQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4315e7266024dfc9ddb9667727d9635:485a55859fda05a1e3e8ae1ae63906e8
@@ -98,312 +98,312 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f8c6b1144723408ca3635040b159d5d1:127040955c9dc320212f110d31f7aac9
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="111" tvg-chno="111" ch-number="111" tvg-logo="https://poster.starhubgo.com/Linear_channels2/111_1920x1080_HTV.png",Hub E City
-https://g-core.weyond.my.id/streams/hubecity/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubECityHD/output/manifest.mpd&warm=true&md5=Iq6dmj8Dtdj8wzZpK7UKXQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hubecity/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubECityHD/output/manifest.mpd&warm=true&md5=jUbJ4VPDRVTvBsGelBOdUw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fa97b3bd1e64a4aa5eb9b42a7da036e:6d6f02aada98526dbf8191f70b0bff6b
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="115" tvg-chno="115" ch-number="115" tvg-logo="https://poster.starhubgo.com/Linear_channels2/115_1920x1080_HTV.png",Citra Entertainment
-https://g-core.weyond.my.id/streams/citraentertainment/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CitraEntertainment/output/manifest.mpd&warm=true&md5=zoK0M8JH-CEN4aj8lYy0-g&expires=1776468279
+https://g-core.weyond.my.id/streams/citraentertainment/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CitraEntertainment/output/manifest.mpd&warm=true&md5=JZHorboFd0Fijiw3tuYBXg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b08559f2efb4075b6b31666b412932d:f574a17ae1805bf390b58d2bf814c062
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="118" tvg-chno="118" ch-number="118" tvg-logo="https://poster.starhubgo.com/Linear_channels2/118_1920x1080_HTV.png",Astro Warna
-https://g-core.weyond.my.id/streams/astrowarna/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Astro_warna_new/output/manifest.mpd&warm=true&md5=uEqtr_UWGogxS3JegwDzhg&expires=1776468279
+https://g-core.weyond.my.id/streams/astrowarna/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Astro_warna_new/output/manifest.mpd&warm=true&md5=cQLAx2AvgMh4MXbUCh2kJw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0510cd2f13504601956fb58167de6beb:bdd71968a15b634b3e097173a8b7ea7b
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="123" tvg-chno="123" ch-number="123" tvg-logo="https://poster.starhubgo.com/Linear_channels2/123_1920x1080_HTV.png",Astro Sensasi
-https://g-core.weyond.my.id/streams/astrosensasi/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSensasiHD/output/manifest.mpd&warm=true&md5=bx412lxuif0QioD44uFGAw&expires=1776468279
+https://g-core.weyond.my.id/streams/astrosensasi/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubSensasiHD/output/manifest.mpd&warm=true&md5=000TRsygNZmkhYLa01Fx9w&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=daa2d5016af54ce5933c9034d5c21ddf:4cb6857673fb8f3adb6c620d134b8607
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="125" tvg-chno="125" ch-number="125" tvg-logo="https://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png",Zee TV
-https://g-core.weyond.my.id/streams/zeetv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ZeeTV/output/manifest.mpd&warm=true&md5=WNdxjANzpS5hBNeYRqRtbQ&expires=1776468279
+https://g-core.weyond.my.id/streams/zeetv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ZeeTV/output/manifest.mpd&warm=true&md5=8iwBjJZxUqEt2GMELC4UwA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=11638fd3d4294a00a06a96752386c974:1631bf2a7e1c01aa9be0777798cbacbc
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="127" tvg-chno="127" ch-number="127" tvg-logo="https://poster.starhubgo.com/Linear_channels2/127_1920x1080_HTV.png",Sony Entertainment Television
-https://g-core.weyond.my.id/streams/sonyentertainmenttelevision/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd&warm=true&md5=xPxEwpKvbTKrPAxefwbKTA&expires=1776468279
+https://g-core.weyond.my.id/streams/sonyentertainmenttelevision/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SonyEntertainmentTelevision/output/manifest.mpd&warm=true&md5=ynqvqXFEQ40jF5jJ8v8UiQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9d97a893d1c42a3ab865f0ea5f85d87:fe1f21eda73955bf58f01cf5449cb289
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="131" tvg-chno="131" ch-number="131" tvg-logo="https://poster.starhubgo.com/Linear_channels2/11_1920x1080_HTV.png",Sony Max
-https://g-core.weyond.my.id/streams/sonymax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SonyMAX/output/manifest.mpd&warm=true&md5=BJrhufY5MRdRaifvItK8ng&expires=1776468279
+https://g-core.weyond.my.id/streams/sonymax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SonyMAX/output/manifest.mpd&warm=true&md5=eMZeGyimHjEKWhO5ypP5Rg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5fb01414e3464af4a2683cf7847a2ab0:4faf90b7e72e099c871558754f23fa3a
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="143" tvg-chno="143" ch-number="143" tvg-logo="https://poster.starhubgo.com/Linear_channels2/143_1920x1080_HTV.png",ANC
-https://g-core.weyond.my.id/streams/anc/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ANC/output/manifest.mpd&warm=true&md5=RVDpWlCZQ4b96v2nrIgdvg&expires=1776468279
+https://g-core.weyond.my.id/streams/anc/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ANC/output/manifest.mpd&warm=true&md5=jQKqcraau1_CR4aAaXugmg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6953b6ee83a94ee6bf9bd3f9a0b41785:58568b1209a5c44b596af7ebd49029a4
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="145" tvg-chno="145" ch-number="145" tvg-logo="https://poster.starhubgo.com/Linear_channels2/145_1920x1080_HTV.png",Cinema One Global
-https://g-core.weyond.my.id/streams/cinemaoneglobal/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CinemaOne/output/manifest.mpd&warm=true&md5=DHZgkMpWMfBEi0KRAfF9bA&expires=1776468279
+https://g-core.weyond.my.id/streams/cinemaoneglobal/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CinemaOne/output/manifest.mpd&warm=true&md5=_ZT6TAyGU9ObqP0C23uwvQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7444d9d4f4c441e4a9636b4a06822d1e:95e1b9d523beca239ff7c5e74df5f652
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="152" tvg-chno="152" ch-number="152" tvg-logo="https://poster.starhubgo.com/Linear_channels2/152_1920x1080_HTV.png",TV5Monde Asie
-https://g-core.weyond.my.id/streams/tv5mondeasie/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd&warm=true&md5=WHG9KvGP_AGtF5ze0Kgwkw&expires=1776468279
+https://g-core.weyond.my.id/streams/tv5mondeasie/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TV5MONDEAsieHD/output/manifest.mpd&warm=true&md5=Jqpc0t14uPDq3xGBrt3qGw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab3236dbe1be474983feeaddc16be232:1a9c9159b431050742eabe21e37d12af
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="153" tvg-chno="153" ch-number="153" tvg-logo="https://poster.starhubgo.com/Linear_channels2/153_1920x1080_HTV.png",DW English
-https://g-core.weyond.my.id/streams/dwenglish/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DW/output/manifest.mpd&warm=true&md5=fqc59gWC28luzPfi7PrB0w&expires=1776468279
+https://g-core.weyond.my.id/streams/dwenglish/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DW/output/manifest.mpd&warm=true&md5=mw2bztsmVu_qUPxMQ6OVsA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c44621930bf54bf0b771b610646e9005:8cafe783be0062021523cb35be913858
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CBeebiesAsia.uk" tvg-chno="303" tvg-logo="https://poster.starhubgo.com/Linear_channels2/303_1920x1080_HTV.png",CBeebies
-https://g-core.weyond.my.id/streams/cbeebies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CbeebiesHD/output/manifest.mpd&warm=true&md5=Wz6budetbBGX1P0PxZJvsA&expires=1776468279
+https://g-core.weyond.my.id/streams/cbeebies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CbeebiesHD/output/manifest.mpd&warm=true&md5=sf-1pqqGAmVmP1xYjbyojQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b329a17ccab74793895b2302b1e8d9dc:d5bab2e51f8597031fe497f6c00addf5
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="NickJrAsia.sg" tvg-chno="304" tvg-logo="https://poster.starhubgo.com/Linear_channels2/304_1920x1080_HTV.png",Nick Jr.
-https://g-core.weyond.my.id/streams/nickjr/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NickJr/output/manifest.mpd&warm=true&md5=m-3FsWUaoIA9AYP_v9LTeA&expires=1776468279
+https://g-core.weyond.my.id/streams/nickjr/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NickJr/output/manifest.mpd&warm=true&md5=eQ3IqxsOiGlvuiSzfQfMMQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59cd13f9432a4b17b3cfb141bb018a4f:01fe6416e1149413db3e7a655a6a445c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="DreamWorksChannelAsia.us" tvg-chno="307" tvg-logo="https://poster.starhubgo.com/Linear_channels2/606_1920x1080_HTV.png",DreamWorks Channel
-https://g-core.weyond.my.id/streams/dreamworkschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DreamworksHD/output/manifest.mpd&warm=true&md5=TlVVgaQulkg3ulGPfMKdUQ&expires=1776468279
+https://g-core.weyond.my.id/streams/dreamworkschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DreamworksHD/output/manifest.mpd&warm=true&md5=dU8flJmIoUIeySEe0jwKOA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ffa616fd7c1427db5fd75982985b7f7:fcc74119ced123d8457d8ee3d0a95005
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="NickelodeonAsia.sg" tvg-chno="314" tvg-logo="https://poster.starhubgo.com/Linear_channels2/314_1920x1080_HTV.png",Nickelodeon
-https://g-core.weyond.my.id/streams/nickelodeon/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NickelodeonHD/output/manifest.mpd&warm=true&md5=kmbNb3tHNoRpKofuJAFMkQ&expires=1776468279
+https://g-core.weyond.my.id/streams/nickelodeon/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NickelodeonHD/output/manifest.mpd&warm=true&md5=SG-pbTxCmgGqRB6KXgvmTg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4648ad8290a410a85781044307672ae:78bcd2f197a761ea3a885d13971d6aa9
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CartoonNetworkAsia.sg" tvg-chno="316" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
-https://g-core.weyond.my.id/streams/cartoonnetwork/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CartoonNetwork/output/manifest.mpd&warm=true&md5=LK4acNWlDhuQKpRRs_fqSg&expires=1776468279
+https://g-core.weyond.my.id/streams/cartoonnetwork/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CartoonNetwork/output/manifest.mpd&warm=true&md5=VQ3G6lIg1o2eUAdUmV1rMA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ebd4b085804891988897c19ec04d9f:7fb1cd86d4fcf86942e0b0cab62c82db
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="Cartoonito.uk" tvg-chno="317" tvg-logo="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png",Cartoonito
-https://g-core.weyond.my.id/streams/cartoonito/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BoomerangHD/output/manifest.mpd&warm=true&md5=ZvG21SVdUUsO5y4yw7Htcg&expires=1776468279
+https://g-core.weyond.my.id/streams/cartoonito/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BoomerangHD/output/manifest.mpd&warm=true&md5=sfHCDfztJE4zq5FrWXST3g&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aaefa438407c4e39be6944fb82b952df:9fa8872f2a8d4d9395c40802527f84ac
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HistoryAsia.us" tvg-chno="401" tvg-logo="https://poster.starhubgo.com/Linear_channels2/401_1920x1080_HTV.png",History
-https://g-core.weyond.my.id/streams/history/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HistoryHD/output/manifest.mpd&warm=true&md5=T4eYK5BvJj8GSiMJI85Gxw&expires=1776468279
+https://g-core.weyond.my.id/streams/history/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HistoryHD/output/manifest.mpd&warm=true&md5=XmdvuuHRwjjfxwKQnyyJUA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2cc82e4d16944e3680ecd7f798ad934a:efd9b267c84effe30cf80dd8e9f9d499
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CrimePlusInvestigationAsia.sg" tvg-chno="403" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png",Crime+Investigation
-https://g-core.weyond.my.id/streams/crimeinvestigation/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd&warm=true&md5=apofMPeyk2akoEEldk59iQ&expires=1776468279
+https://g-core.weyond.my.id/streams/crimeinvestigation/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CrimeplusInvestigationHD/output/manifest.mpd&warm=true&md5=l5C_PzVWhV1T-Z0oRs8fng&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fad0942337db4c7e910cca2680cbae89:f48adcc739a34ac96a4848ad0bfba6cf
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="BBCEarthAsia.uk" tvg-chno="407" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png",BBC Earth
-https://g-core.weyond.my.id/streams/bbcearth/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCEarthHD/output/manifest.mpd&warm=true&md5=Cd2SFMWBT_94v13ZtT1jjQ&expires=1776468279
+https://g-core.weyond.my.id/streams/bbcearth/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCEarthHD/output/manifest.mpd&warm=true&md5=FDMpCJscaODdh-_ZhCvXvA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e01c2c642b407197ee4773d19c1b02:fea2e9072ca6f49f297e5123d75cf490
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="DiscoveryChannelSoutheastAsia.sg" tvg-chno="422" tvg-logo="https://poster.starhubgo.com/Linear_channels2/422_1920x1080_HTV.png",Discovery Channel
-https://g-core.weyond.my.id/streams/discoverychannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DiscoveryCh/output/manifest.mpd&warm=true&md5=5b2XeHH2lpF9enn7oTBPZA&expires=1776468279
+https://g-core.weyond.my.id/streams/discoverychannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DiscoveryCh/output/manifest.mpd&warm=true&md5=TnxZg5-9B3lz2dMtMaNjeg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f73a324d13e14b51ae6576655c2646c2:eb2aeda95806929f93f744a3c1137458
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="Travelxp.in" tvg-chno="427" tvg-logo="https://poster.starhubgo.com/Linear_channels2/427_1920x1080_HTV.png",Travelxp
-https://g-core.weyond.my.id/streams/travelxp/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TravelxpHD/output/manifest.mpd&warm=true&md5=cJFCWOuIsZATa1QETEvzIg&expires=1776468279
+https://g-core.weyond.my.id/streams/travelxp/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TravelxpHD/output/manifest.mpd&warm=true&md5=VJSsN2D10pcaTpy8NNZNrQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=06bbd3e5972746be9307aff0ca171ef1:63d0ed83314277f18961f29fd7e90e03
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="BBCLifestyleAsia.uk" tvg-chno="432" tvg-logo="https://poster.starhubgo.com/Linear_channels2/432_1920x1080_HTV.png",BBC Lifestyle
-https://g-core.weyond.my.id/streams/bbclifestyle/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCLifestyleHD/output/manifest.mpd&warm=true&md5=Pv1XIv8alWbeFt0Bt_33UA&expires=1776468279
+https://g-core.weyond.my.id/streams/bbclifestyle/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCLifestyleHD/output/manifest.mpd&warm=true&md5=oH-XkreWcKeF6zytdZOZgw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1ac1cd0128240e18b68f337fe871b59:372c1435914f835639e2595c0670b0ed
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HGTVAsia.us" tvg-chno="437" tvg-logo="https://poster.starhubgo.com/Linear_channels2/437_1920x1080_HTV.png",HGTV
-https://g-core.weyond.my.id/streams/hgtv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HGTV/output/manifest.mpd&warm=true&md5=4mGPbLtCXyvAyd6Qa3aiZA&expires=1776468279
+https://g-core.weyond.my.id/streams/hgtv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HGTV/output/manifest.mpd&warm=true&md5=gEhQH1KL1GWmRtsHphzSlw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b9c09ade79141e39e25f18da05bee00:f805cca7aab475afeb9b55251e0f4302
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="FashionTVAsia.fr" tvg-chno="443" tvg-logo="https://poster.starhubgo.com/Linear_channels2/443_1920x1080_HTV.png",FashionTV
-https://g-core.weyond.my.id/streams/fashiontv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/FashionTV/output/manifest.mpd&warm=true&md5=204Wolf3sr3w0lfAnL_eqA&expires=1776468279
+https://g-core.weyond.my.id/streams/fashiontv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/FashionTV/output/manifest.mpd&warm=true&md5=oSg3KgCuzG1fD4OLiu84MQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d05e49ef06764933b441934b0df7afd7:28f08dc6b642be5bf24651671f73e11b
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="ABCAustralia.au" tvg-chno="447" tvg-logo="https://poster.starhubgo.com/Linear_channels2/447_1920x1080_HTV.png",ABC Australia
-https://g-core.weyond.my.id/streams/abcaustralia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ABCAustralia/output/manifest.mpd&warm=true&md5=xUltj_R4zIF2E34vcnYu5g&expires=1776468279
+https://g-core.weyond.my.id/streams/abcaustralia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ABCAustralia/output/manifest.mpd&warm=true&md5=pM9JN7MDEqPh_RhCu1j05g&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05e817347131436ab754a7367ab7cbf4:d50056adfc6ee86e7dfa2ccf0b8b9872
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="RockEntertainment.sg" tvg-chno="509" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png",ROCK Entertainment
-https://g-core.weyond.my.id/streams/rockentertainment/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd&warm=true&md5=9JPo2Ts0AQXsWN9cVW7rWw&expires=1776468279
+https://g-core.weyond.my.id/streams/rockentertainment/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BlueAntEntertainmentHD/output/manifest.mpd&warm=true&md5=VkT7PxmrOnHu_XD7aYwXig&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f45dc24e46048a0981d7a4bc7127177:4db68809e6795408417128abbb32dba0
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="AXNHDSingapore.sg" tvg-chno="511" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
-https://g-core.weyond.my.id/streams/axn/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/AXNHD/output/manifest.mpd&warm=true&md5=af_IiLCtydTJuwWdYC1Kxg&expires=1776468279
+https://g-core.weyond.my.id/streams/axn/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/AXNHD/output/manifest.mpd&warm=true&md5=LGooIZtF3V2MbXsGoh_IUw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7665df17620b4bffadee0b982ef841f8:c81a61f154ef0ceb60644b154354d04e
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HitsMovies.sg" tvg-chno="512" tvg-logo="https://poster.starhubgo.com/Linear_channels2/512_1920x1080_HTV.png",Hits Movies
-https://g-core.weyond.my.id/streams/hitsmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HitsMoviesHD/output/manifest.mpd&warm=true&md5=o4EQQ9hgY4HMRZjYwYZ9MQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hitsmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HitsMoviesHD/output/manifest.mpd&warm=true&md5=K36YiCy8T7IFVkx9GWq0vQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5ae9e1d0b554bc4b8021295f14338a0:ea2edb22dd0f9dc530db7573f6480e9c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="LifetimeAsia.us" tvg-chno="514" tvg-logo="https://poster.starhubgo.com/Linear_channels2/514_1920x1080_HTV.png",Lifetime
-https://g-core.weyond.my.id/streams/lifetime/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/LifetimeHD/output/manifest.mpd&warm=true&md5=WTC0UwZY_9eHhxSeLQ4mkQ&expires=1776468279
+https://g-core.weyond.my.id/streams/lifetime/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/LifetimeHD/output/manifest.mpd&warm=true&md5=Y4hh7JSq36XD-vvWaUTSvg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c7890082be941669ddfb1096b41ee10:e29c76bd9d4be6433ea3a30af82d7de6
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="Hits.sg" tvg-chno="519" tvg-logo="https://poster.starhubgo.com/Linear_channels2/519_1920x1080_HTV.png",Hits
-https://g-core.weyond.my.id/streams/hits/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HITSHD/output/manifest.mpd&warm=true&md5=iihf35Ur7JogdOXiZSlp4w&expires=1776468279
+https://g-core.weyond.my.id/streams/hits/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HITSHD/output/manifest.mpd&warm=true&md5=eYHbej_A9D8KxpCtLD33PQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8421c9bc0b5241e59fe4377405a5305e:a8570f08dd26e5210041d85d7a84d6f4
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="AnimaxAsia.sg" tvg-chno="532" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png",Animax
-https://g-core.weyond.my.id/streams/animax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/AnimaxHD/output/manifest.mpd&warm=true&md5=frJAQmiAfUGSNJSOeh-rbQ&expires=1776468279
+https://g-core.weyond.my.id/streams/animax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/AnimaxHD/output/manifest.mpd&warm=true&md5=55tGCQtg3EuR08ctBnK3kg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eec131c3a0af46359a1734acfa9b0e50:fbd97ce2ca444ba3090bd2968809511c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HBOAsia.sg" tvg-chno="601" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png",HBO
-https://g-core.weyond.my.id/streams/hbo/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOHD/output/manifest.mpd&warm=true&md5=XzugJrcRwi--Xp4wS3s3ww&expires=1776468279
+https://g-core.weyond.my.id/streams/hbo/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOHD/output/manifest.mpd&warm=true&md5=qh9Wrd-ofWsmOJaQ4qfq-w&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dd4f16f5fd647d79589d923060df12d:e29e7f9e4bd59c0515dd0ad1e83b18a7
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HBOSignatureAsia.sg" tvg-chno="603" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png",HBO Signature
-https://g-core.weyond.my.id/streams/hbosignature/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOSignatureHD/output/manifest.mpd&warm=true&md5=EPb9dVxeX29TDIcsnl0_rQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hbosignature/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOSignatureHD/output/manifest.mpd&warm=true&md5=Stz0PGN2M_XOBViFKt9JYA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d012c1b7ebe4232b9c9868b8d4af1e7:44bf6fb3a4e044ec4469d6f5588b09f6
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HBOFamilyAsia.sg" tvg-chno="604" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png",HBO Family
-https://g-core.weyond.my.id/streams/hbofamily/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOFamilyHD/output/manifest.mpd&warm=true&md5=hiz-2uHg1jxO54YOPXGxHQ&expires=1776468279
+https://g-core.weyond.my.id/streams/hbofamily/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOFamilyHD/output/manifest.mpd&warm=true&md5=te7KV-HnqtpqJ99saWSw9w&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b3087019c53476da5bf58ff3092f49b:1a6e037e898efb04cd33419486a096fe
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HBOHitsAsia.sg" tvg-chno="605" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png",HBO Hits
-https://g-core.weyond.my.id/streams/hbohits/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOHitsHD/output/manifest.mpd&warm=true&md5=Q6BwuF14sQKOQYBbYVzgNA&expires=1776468279
+https://g-core.weyond.my.id/streams/hbohits/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HBOHitsHD/output/manifest.mpd&warm=true&md5=lKQMTsk1MXPje5aFG7HYjQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4c9462406784dc1ae136960ce519d9f:088f3518471c22767c0cf0e4372bccac
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CinemaxSingapore.sg" tvg-chno="611" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png",Cinemax
-https://g-core.weyond.my.id/streams/cinemax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CinemaxHD/output/manifest.mpd&warm=true&md5=qjPGH14jo_LuMBXrveEHww&expires=1776468279
+https://g-core.weyond.my.id/streams/cinemax/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CinemaxHD/output/manifest.mpd&warm=true&md5=_aYBGavfr69cDkrPXMkpnw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bfc3a60371f47dfbf91589716bc4976:c4da05d94f2ee2c073cb093ab07d1215
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="BBCNews.uk@AsiaPacific" tvg-chno="701" tvg-logo="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png",BBC News
-https://g-core.weyond.my.id/streams/bbcnews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCWorldNewsHD/output/manifest.mpd&warm=true&md5=o2m4cek6EUE9Hl-48bHnTw&expires=1776468279
+https://g-core.weyond.my.id/streams/bbcnews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BBCWorldNewsHD/output/manifest.mpd&warm=true&md5=C_qNocYYxxbYNLc7k_66Bg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07ee8c54c2346b9a55658ba2253e1bb:2afdbfa34b08414399fb75562313a31e
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="FoxNewsChannel.us" tvg-chno="702" tvg-logo="https://poster.starhubgo.com/Linear_channels2/702_1920x1080_HTV.png",Fox News Channel
-https://g-core.weyond.my.id/streams/foxnewschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/FNCHD/output/manifest.mpd&warm=true&md5=bKnmDaybuqiy03rIsUvrtQ&expires=1776468279
+https://g-core.weyond.my.id/streams/foxnewschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/FNCHD/output/manifest.mpd&warm=true&md5=KI9pXtrjDWKBeNZDYtoWPw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d397ab72f1e44b3abea34e879511cdad:e4a449c98410d136b21ddef7f58c5a6d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="SkyNewsAustralia.au" tvg-chno="703" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png",Sky News
-https://g-core.weyond.my.id/streams/skynews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SkyNewsHD/output/manifest.mpd&warm=true&md5=zGBWB7ZWxKGC98gvDaMUUg&expires=1776468279
+https://g-core.weyond.my.id/streams/skynews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/SkyNewsHD/output/manifest.mpd&warm=true&md5=0UdEoXeRVW5XXEC33JKGFg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a949912200ee45efb2f30d3260eb4eb1:d9ea6196758f70ad84123906b5fa218c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="EuronewsEnglish.fr" tvg-chno="704" tvg-logo="https://poster.starhubgo.com/Linear_channels2/704_1920x1080_HTV.png",Euronews English
-https://g-core.weyond.my.id/streams/euronewsenglish/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Euronews/output/manifest.mpd&warm=true&md5=jKJEJ4eK0H1RFSWJhBSiDQ&expires=1776468279
+https://g-core.weyond.my.id/streams/euronewsenglish/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/Euronews/output/manifest.mpd&warm=true&md5=Dhyhf6PuPel6QuYaePjDyA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8411ae48e2d940089011964dd57a4a39:b20405dd1280c2c999d2e630a1f54187
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CNBCAsia.sg" tvg-chno="707" tvg-logo="https://poster.starhubgo.com/Linear_channels2/707_1920x1080_HTV.png",CNBC
-https://g-core.weyond.my.id/streams/cnbc/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CNBCHD/output/manifest.mpd&warm=true&md5=2b6KH_iQ2O4LRVahx_NJFw&expires=1776468279
+https://g-core.weyond.my.id/streams/cnbc/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CNBCHD/output/manifest.mpd&warm=true&md5=9Rh6GP17StTKqQdzVzQmQg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3990d086ffa1431897ec0df4b62b7a9c:f132946dc762434007bcf0abe4df9064
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="BloombergTV.us@Asia" tvg-chno="708" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg Television
-https://g-core.weyond.my.id/streams/bloombergtelevision/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BloombergTelevisionHD/output/manifest.mpd&warm=true&md5=wzyNCy_dxFc6869KEn3WFw&expires=1776468279
+https://g-core.weyond.my.id/streams/bloombergtelevision/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/BloombergTelevisionHD/output/manifest.mpd&warm=true&md5=BQiig2hAAtQhswWJHP5fNg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=88dccf3f4ba540348a9e8d159d448484:5f87122f3582d54f44f7f8915e7f065c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CNNInternational.us@AsiaPacific" tvg-chno="711" tvg-logo="https://poster.starhubgo.com/Linear_channels2/711_1920x1080_HTV.png",CNN International
-https://g-core.weyond.my.id/streams/cnninternational/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CNNHD/output/manifest.mpd&warm=true&md5=MB2yxLCM-FVvCSdKAes9Eg&expires=1776468279
+https://g-core.weyond.my.id/streams/cnninternational/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CNNHD/output/manifest.mpd&warm=true&md5=ZOyKHh9hHIZl5JSxYcOFNg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14d5c64d3c8f464ea33d4ddee66ee13c:e515502bedb70262ea62e87d48e24f9c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CGTN.cn" tvg-chno="722" tvg-logo="https://poster.starhubgo.com/Linear_channels2/722_1920x1080_HTV.png",CGTN
-https://g-core.weyond.my.id/streams/cgtn/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CGTN/output/manifest.mpd&warm=true&md5=kvijoQeu0-8fQ7GuLxnNOg&expires=1776468279
+https://g-core.weyond.my.id/streams/cgtn/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CGTN/output/manifest.mpd&warm=true&md5=Otmf6WXI8cEBZoAdJ2MoQQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1c5e648fc2a64499a9f5c112dc66a9c2:5fba156eab1ed43bbe1ca86018145e9d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="France24.fr@English" tvg-chno="724" tvg-logo="https://poster.starhubgo.com/Linear_channels2/724_1920x1080_HTV.png",France 24
-https://g-core.weyond.my.id/streams/france24/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/France24/output/manifest.mpd&warm=true&md5=COMppyUJGpAxZe4_rxGkQQ&expires=1776468279
+https://g-core.weyond.my.id/streams/france24/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/France24/output/manifest.mpd&warm=true&md5=5Dvre5Qx3K2NtZkuSqUf7w&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80f9916eda094579a6f1efa06d4db70c:bee68b19d59a1f5d8e44ef26e2e838c5
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CCTV4Asia.cn" tvg-chno="801" tvg-logo="https://poster.starhubgo.com/Linear_channels2/801_1920x1080_HTV.png",CCTV4
-https://g-core.weyond.my.id/streams/cctv4/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CCTV4/output/manifest.mpd&warm=true&md5=SHuOgtfapFITmSfxFatzvw&expires=1776468279
+https://g-core.weyond.my.id/streams/cctv4/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CCTV4/output/manifest.mpd&warm=true&md5=l3Z1dCwTyo1MFgSXvznp3A&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=10c3f073b366422bb1172644d6329e29:083a46fc38413da1aeccb36f815b31f1
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="PhoenixChineseChannel.hk" tvg-chno="805" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png",Phoenix Chinese Channel
-https://g-core.weyond.my.id/streams/phoenixchinesechannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/PCCHD/output/manifest.mpd&warm=true&md5=rqudKrzohx1jzOLgyknhJA&expires=1776468279
+https://g-core.weyond.my.id/streams/phoenixchinesechannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/PCCHD/output/manifest.mpd&warm=true&md5=lfXkQxpQk_ErHXs6jenF-g&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7cfb0befbe3e463b98b9e76e24be8111:6618e3ba4af28955d3312ac9f2ba03e1
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="PhoenixInfonewsChannel.hk" tvg-chno="806" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png",Phoenix InfoNews Channel
-https://g-core.weyond.my.id/streams/phoenixinfonewschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/PINCHD/output/manifest.mpd&warm=true&md5=Xq1bT8nOsuiTSXpAWMnDCA&expires=1776468279
+https://g-core.weyond.my.id/streams/phoenixinfonewschannel/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/PINCHD/output/manifest.mpd&warm=true&md5=2ISwEo7yzI3BNRG_BQ2DhA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1ba248b9e442df918b9a536cda8886:0ab81d2fa6281223a98528c2359be10e
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="TVBSNews.tw" tvg-chno="808" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS News
-https://g-core.weyond.my.id/streams/tvbsnews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBSNews/output/manifest.mpd&warm=true&md5=cAOewUl7tMfsUnaHCOM9bg&expires=1776468279
+https://g-core.weyond.my.id/streams/tvbsnews/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBSNews/output/manifest.mpd&warm=true&md5=vilLIGpNeDa8pqeK6n0uSw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=62057e40fcd64088a7fb8ae537047af2:1a0c2df99e5048484b35835e9fcd7a0d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="NHKWorldJapan.jp" tvg-chno="812" tvg-logo="https://poster.starhubgo.com/Linear_channels2/812_1920x1080_HTV.png",NHK World
-https://g-core.weyond.my.id/streams/nhkworld/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd&warm=true&md5=hNcutDFpn17kTeZkjbPN_A&expires=1776468279
+https://g-core.weyond.my.id/streams/nhkworld/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/NHKWORLDJAPAN/output/manifest.mpd&warm=true&md5=gNJ21vqEjzxpIHlG75JTYA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebda46a0c57e4328bb81200709446b41:48f03c03ac2f800aea4b8b1a437bb083
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="KBSWorld.kr" tvg-chno="815" tvg-logo="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png",KBS World
-https://g-core.weyond.my.id/streams/kbsworld/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/KBSWorldHD/output/manifest.mpd&warm=true&md5=3aTfvg--VwxDPnFFEUXxJA&expires=1776468279
+https://g-core.weyond.my.id/streams/kbsworld/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/KBSWorldHD/output/manifest.mpd&warm=true&md5=Qhlp7NUn8PsN19rhHNFefw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f21120153ab14180af9e3cc521ef3e0c:20cbfbe7200a7c173499247833a35d4b
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="ArirangTV.kr" tvg-chno="817" tvg-logo="https://poster.starhubgo.com/Linear_channels2/817_1920x1080_HTV.png",Arirang
-https://g-core.weyond.my.id/streams/arirang/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ArirangTV/output/manifest.mpd&warm=true&md5=c7aYktheaG_lBnbLI2XdWA&expires=1776468279
+https://g-core.weyond.my.id/streams/arirang/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ArirangTV/output/manifest.mpd&warm=true&md5=uFrlDVxPzCZiXqpRnrtjwA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4151419d9e5c4723bd2bd9373341e68f:e7935e41e8b0a8a62a68f905a9f641f4
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="OneTVAsia.sg" tvg-chno="823" tvg-logo="https://poster.starhubgo.com/Linear_channels2/823_1920x1080_HTV.png",ONE TV Asia
-https://g-core.weyond.my.id/streams/onetvasia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ONEHD/output/manifest.mpd&warm=true&md5=t0_ae6o7N0ogFugpkHwxOA&expires=1776468279
+https://g-core.weyond.my.id/streams/onetvasia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/ONEHD/output/manifest.mpd&warm=true&md5=yLsA44hHkp8n3NorCoks9g&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8446bf3c61cb46e48efeb9303c98f651:274c6891982e220669ef82c1f6c1bde7
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HubECity.sg" tvg-chno="825" tvg-logo="https://poster.starhubgo.com/Linear_channels2/825_1920x1080_HTV.png",Hub E City
-https://g-core.weyond.my.id/streams/hubecity825/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubECityHD825/output/manifest.mpd&warm=true&md5=uyNyz2ddvCypTcrWr1PWCw&expires=1776468279
+https://g-core.weyond.my.id/streams/hubecity825/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubECityHD825/output/manifest.mpd&warm=true&md5=aFx6hh7xcR8J3iQ7N890Rg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e1a45d20894a8aaaf23eaef58eb66c:c95d228c3a7a396b6cb84646359af262
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="TVBSAsia.tw" tvg-chno="828" tvg-logo="https://poster.starhubgo.com/Linear_channels2/828_1920x1080_HTV.png",TVBS Asia
-https://g-core.weyond.my.id/streams/tvbsasia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBSAsia/output/manifest.mpd&warm=true&md5=Csh21dk9KwaxrL0rhYPNjg&expires=1776468279
+https://g-core.weyond.my.id/streams/tvbsasia/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBSAsia/output/manifest.mpd&warm=true&md5=E2tGlMpPewptTki0Jg-qJA&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc39dc63f3e84bceb6c5a59b058a5349:d0b825d0aeb64f1d4e4dba32ef2d907c
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="DragonTVInternational.cn" tvg-chno="832" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png",Dragon TV
-https://g-core.weyond.my.id/streams/dragontv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DragonTV/output/manifest.mpd&warm=true&md5=l0V6bMknvAAmM3SqmgMyPA&expires=1776468279
+https://g-core.weyond.my.id/streams/dragontv/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/DragonTV/output/manifest.mpd&warm=true&md5=EaebKCdPETTlqrocSDDqTg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c664bbf4728442b0bb914b9bd2280240:9a97525d9864732487668683cdc30ff0
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="Jade.hk" tvg-chno="838" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png",TVB Jade
-https://g-core.weyond.my.id/streams/tvbjade/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBJadeHD/output/manifest.mpd&warm=true&md5=AB4Mgq0ZHA3Wb4OS22QVbA&expires=1776468279
+https://g-core.weyond.my.id/streams/tvbjade/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBJadeHD/output/manifest.mpd&warm=true&md5=XqsXQW0DvqXchK_E3zQ03g&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9712e0043af4a4e9e6b50fc304581c7:021e2862340e8956d8ce548af7ef0839
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="HubVVDrama.sg" tvg-chno="855" ch-number="855" tvg-logo="https://poster.starhubgo.com/Linear_channels2/855_1920x1080_HTV.png",Hub VV Drama
-https://g-core.weyond.my.id/streams/hubvvdrama/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubVVDramaHD/output/manifest.mpd&warm=true&md5=ZlXyT4-66J1zPbcAF0_8Ww&expires=1776468279
+https://g-core.weyond.my.id/streams/hubvvdrama/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/HubVVDramaHD/output/manifest.mpd&warm=true&md5=Kr7rGMQg0pomhyEx7zTbrQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b84174f4f59a4cd2aec7d9a3e278c79e:34d266985f873db4a6f5f6a98d8b4b50
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="TVBXingHe.hk" tvg-chno="859" tvg-logo="https://poster.starhubgo.com/Linear_channels2/859_1920x1080_HTV.png",TVB Xing He
-https://g-core.weyond.my.id/streams/tvbxinghe/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBXingHeChannel/output/manifest.mpd&warm=true&md5=Q2MggPDKWTzC-hmV3gUsfQ&expires=1776468279
+https://g-core.weyond.my.id/streams/tvbxinghe/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/TVBXingHeChannel/output/manifest.mpd&warm=true&md5=R5aqQmIxjpQVU63hL0XQWw&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3144abd890c9482b924a8f64f71f5da9:01c27f7e51ff7f4a396ee9d951011077
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CelestialMovies.hk" tvg-chno="868" tvg-logo="https://poster.starhubgo.com/Linear_channels2/868_1920x1080_HTV.png",Celestial Movies
-https://g-core.weyond.my.id/streams/celestialmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CelestialMoviesHD/output/manifest.mpd&warm=true&md5=SjSswmIn1p4GzCEzSR0_tg&expires=1776468279
+https://g-core.weyond.my.id/streams/celestialmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CelestialMoviesHD/output/manifest.mpd&warm=true&md5=4yvFT7CN9sIEJ9jl8I1pJQ&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1bf777a86b244608948e5d4c272ade19:a7c600a766773809cb56dc1791831247
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="CelestialClassicMovies.hk" tvg-chno="869" tvg-logo="https://poster.starhubgo.com/Linear_channels2/869_1920x1080_HTV.png",Celestial Classic Movies
-https://g-core.weyond.my.id/streams/celestialclassicmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CCM/output/manifest.mpd&warm=true&md5=k9_hrfJ9uINEA_TEq8FRug&expires=1776468279
+https://g-core.weyond.my.id/streams/celestialclassicmovies/live.mpd?url=https://ucdn.weyond.my.id/bpk-tv/CCM/output/manifest.mpd&warm=true&md5=GTpV3RbqJ4fBAjTAZDsUgg&expires=1776468579
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b

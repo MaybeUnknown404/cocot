@@ -423,12 +423,12 @@ https://archertv.my.id/atraksi/hub.mpd?path=bpk-tv/HubSports2HD/output/manifest.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Sports CDN 2",Hub Sports 3 HD
-https://archertv.my.id/atraksi/hub.mpd?path=bpk-tv/HubSports3HDNEW/output/manifest.mpd
+https://archertv.my.id/atraksi/hub2.mpd?path=bpk-tv/HubSports3HDNEW/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
 #EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://qtv.my.id/glogo/hub3.png" group-title="🇸🇬 Sports CDN 2",Hub Sports 4 HD
-https://archertv.my.id/atraksi/hub.mpd?path=bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://archertv.my.id/atraksi/hub2.mpd?path=bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584

@@ -2,8 +2,8 @@
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
-#EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hub_prem.jpg" group-title="🇸🇬 Starhub Sports",Hub Premier 1
-https://qtv.my.id/starhub/pl/cdnsatu.mpd?id=HubPremier1
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hub_prem.jpg" group-title="🇸🇬 Starhub Sports2",Hub Premier 1
+https://swift.livecloud.my.id/bpk-tv/HubPremier1/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156

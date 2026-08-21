@@ -72,12 +72,12 @@ https://qtv.my.id/testoken/taik2.mpd?id=hub1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-#EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://qtv.my.id/glogo/hubsport2.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 1 HD
+#EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 1 HD
 https://qtv.my.id/testoken/taik2.mpd?id=hubsport1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
-#EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtv.my.id/glogo/hubsport2.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 2 HD
+#EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 2 HD
 https://qtv.my.id/testoken/taik2.mpd?id=hubsports2
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

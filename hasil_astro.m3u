@@ -65,6 +65,21 @@ https://qtv.my.id/testoken/taik.mpd?id=beINSports4
 #EXTINF:-1 tvg-id="beINSports5" tvg-name="beIN Sports 5" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg=w240-h480-rw" group-title="🇸🇬 Starhub Sports",beIN Sports 5
 https://qtv.my.id/testoken/taik.mpd?id=beINSports5
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+#EXTINF:-1 tvg-id="" tvg-logo="http://qtv.my.id/glogo/hubpremrtc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Premier 1
+https://qtv.my.id/testoken/taik2.mpd?id=hub1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
+#EXTINF:-1 tvg-id="HubSports1HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://qtv.my.id/glogo/hubsport2.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 1 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsport1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d
+#EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtv.my.id/glogo/hubsport2.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 2 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsports2
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="101" tvg-chno="101" ch-number="101" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel

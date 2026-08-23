@@ -80,6 +80,26 @@ https://qtv.my.id/testoken/taik2.mpd?id=hubsport1
 #EXTINF:-1 tvg-id="HubSports2HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 2 HD
 https://qtv.my.id/testoken/taik2.mpd?id=hubsports2
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cfb926f22184132a35ebf76f19595f1:ef9c426de14abc376edc1656c47875e6
+#EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 3 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsports3
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a29d4f3b6e540b3aa2f36927c01b6f4:57b670b45b5cb453a9f48fa975b702c1
+#EXTINF:-1 tvg-id="HubSports3HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 4 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsports4
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bed9555084b4eaa9bfea62c3ca52871:ccac45f8beaf3eb8aafbd934d1791584
+#EXTINF:-1 tvg-id="HubSports6HD" tvg-name="Hub Sports 6 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 6 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsports6
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=16f39f24603a4b9ea70fa22d91f55d29:bab7601e930f1d08ccfa005548dbbace
+#EXTINF:-1 tvg-id="HubSports7HD" tvg-name="Hub Sports 7 HD" tvg-logo="https://qtv.my.id/glogo/hubsporttc.jpg" group-title="🇸🇬 Starhub Sports S2",Hub Sports 7 HD
+https://qtv.my.id/testoken/taik2.mpd?id=hubsports7
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=94472526cc92471493d46543faefadda:36658f2faa1f09f206a2f448ac653e2d
 #EXTINF:-1 group-title="🇸🇬 Starhub" tvg-id="101" tvg-chno="101" ch-number="101" tvg-logo="https://poster.starhubgo.com/Linear_channels2/101_1920x1080_HTV.png",Preview Channel
